@@ -1,2 +1,1 @@
-# ReactToDo
-Простая работа на React
+Todo Application
